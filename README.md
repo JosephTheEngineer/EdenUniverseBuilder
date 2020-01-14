@@ -1,3 +1,5 @@
+This repo is not updated anymore! Please see this [link](https://www.github.com/josephtheengineer/uplink) for the rebranded app.
+
 # Eden Universe Builder
 A remake of the popular iOS game, Eden - World Builder, in the Godot Game Engine.
 
